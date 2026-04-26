@@ -80,9 +80,3 @@ The dashboard uses structured datasets including:
 * Data visualization learning project
 * Power BI portfolio showcase
 
-
----
-
-## ⭐ If you like this project
-
-Give it a star ⭐ on GitHub to support the work!
